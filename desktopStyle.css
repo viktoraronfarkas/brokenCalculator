@@ -6,6 +6,7 @@
 body{
     padding: auto;
     background-color: darkgreen;
+    overflow: hidden;
 }
 
 body button:focus{
@@ -150,4 +151,22 @@ body button:focus{
 
 #zero{
     width: 12.5vw;
+}
+
+footer{
+    width: 95vw;
+    max-width: 100%;
+    height: 50px;
+    font-style: italic;
+}
+
+footer a{
+    float: right;
+    text-decoration: none;
+    color: darkorange;
+    margin: 5px 5px;
+}
+
+footer a:hover{
+    color: blueviolet;
 }

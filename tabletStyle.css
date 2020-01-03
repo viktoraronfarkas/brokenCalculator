@@ -27,7 +27,7 @@ body button:focus{
 
 #wrap h1{
     margin-top: 2vh;
-    font-size: 10vw;
+    font-size: 9vw;
 }
 
 #wrap h2{
@@ -45,7 +45,7 @@ body button:focus{
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
-    font-size: 5vw;
+    font-size: 4.5vw;
     font-weight:300;
     color:#FFFFFF;
     text-align:center;
@@ -74,20 +74,17 @@ body button:focus{
 
 #diffSelCont p{
     margin: 4vh auto;
-    width: 18vw;
+    width: 20vw;
     font-size: 4vw;
     font-weight: bold;
     border-style: solid;
-    border-width: 2px;
+    border-width: 3px;
 }
 
 #calcCont{
-    width: 60vw;
-    min-width: 230px;
-    max-width: 250px;
+    width: 55vw;
     height: 55vh;
-    max-height: 450px;
-    margin: 4vh auto;
+    margin: 2vh auto;
     border-style: solid;
     border-width: 2px;
     border-radius: 10px;
@@ -98,7 +95,7 @@ body button:focus{
 #screen{
     overflow: hidden;
     margin: 3vh auto;
-    width: 52vw;
+    width: 45vw;
     height: 6vh;
     border-style: solid;
     border-width: 2px;
@@ -116,13 +113,13 @@ body button:focus{
 }
 
 #buttonsCont {
-    margin: 8vh auto 1vh;
-    width: 52vw;
+    margin: 7vh auto 1vh;
+    width: 46vw;
     height: 31vh;
 }
 
 .calcBut{
-    width: 12vw;
+    width: 11vw;
     height: 4.5vh;
     margin: 1vh auto;
     font-family: 'Crimson Text', serif;
@@ -151,7 +148,7 @@ body button:focus{
 }
 
 #zero{
-    width: 38.7vw;
+    width: 34.2vw;
 }
 
 footer{
