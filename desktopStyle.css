@@ -6,7 +6,6 @@
 body{
     padding: auto;
     background-color: darkgreen;
-    overflow: hidden;
 }
 
 body button:focus{
